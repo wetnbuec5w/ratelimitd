@@ -1,0 +1,16 @@
+# binaries
+/ratelimitd
+*.exe
+*.so
+*.dylib
+*.test
+/coverage.out
+
+# editor and OS noise
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# local env
+.env
